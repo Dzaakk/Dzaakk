@@ -1,8 +1,5 @@
-<h3 align="center">Hi 👋, I'm Dzaky Mohammad</h3>
+<h3 align="center">Hi 👋</h3>
 
-###
-
-<p align="center">Golang enjoyer | Backend dev wannabe</p>
 
 ###
 
@@ -41,11 +38,6 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Dzaakk/Dzaakk/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Dzaakk/count.svg?"  />
